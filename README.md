@@ -4,7 +4,7 @@ Hi 👋, I'm Pawel Soltysik, also known as Annocholik (not Alcoholic). I was sta
 
 <h2 align="center">Public repositories</h2>
 
-### [AskMe❓ (Node.JS)](https://github.com/annocholik/AskMe) 
+### [AnyQuestions❓ (Node.JS)](https://github.com/annocholik/AnyQuestions) 
 Node module package, which allow to create custom console menu. If you require new type of menu -> fork & contribute.
 
 <h2 align="center">Career path</h2>
